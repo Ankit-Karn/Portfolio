@@ -44,7 +44,7 @@ export const portfolio = [
     id: 2,
     cover: "https://uploads-ssl.webflow.com/615af81f65d1ab72d2969269/62d5158971e87172e7de47e9_trello%20blog.png",
     title: "Trello-Kanban Board",
-    link: "https://github.com/shailja026/kanban-board"
+    link: "https://github.com/Ankit-Karn/Trello-kanban-board"
   },
   {
     id: 3,
